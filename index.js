@@ -5,6 +5,7 @@ const persist = require("./persist");
 // define a port
 const portNumber = process.argv[2] || 8080;
 
+
 // connect to the database
 persist.connect(function () {
   // start the server
