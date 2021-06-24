@@ -4,11 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "startdemon":"nodemon index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Crew Spencer",
+  "author": "Jace Fugate",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
